@@ -25,6 +25,8 @@ Plot the edged image using matplotlib.
 ## Program:
 
 ``` Python
+# Developed By   : R ARUNRAJ
+# Register Number: 212220230004
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
